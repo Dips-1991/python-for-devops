@@ -15,7 +15,7 @@ def createJira():
 
     API_TOKEN="ATATT3xFfGF0IxIFYK2DnBxDgEmApPkCwgjc8ETlKGNGp3IFDucez4H44sEkqHkb4AyJDTAKV1HCLvyvh9XxhbYDOcZyngBiwHenaQd0IHGnF2FwQBrj3PkqEIHyvQ_a1QKiECeq9mTfKM0AbPlTDCjLApqU42Q0DSHCQRWi9veDdPmJJZqdN_w=51F413BB"
 
-    auth = HTTPBasicAuth("", API_TOKEN)
+    auth = HTTPBasicAuth("patildipak0791@gmail.com", API_TOKEN)
 
     headers = {
         "Accept": "application/json",
